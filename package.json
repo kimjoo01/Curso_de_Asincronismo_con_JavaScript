@@ -1,0 +1,22 @@
+{
+  "name": "curso_de_asincronismo_con_javascript",
+  "version": "1.0.0",
+  "description": "asincronismo con javaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimjoo01/Curso_de_Asincronismo_con_JavaScript.git"
+  },
+  "keywords": [
+    "javaScript"
+  ],
+  "author": "Jorge Burbano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kimjoo01/Curso_de_Asincronismo_con_JavaScript/issues"
+  },
+  "homepage": "https://github.com/kimjoo01/Curso_de_Asincronismo_con_JavaScript#readme"
+}
