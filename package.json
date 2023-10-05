@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/kimjoo01/Curso_de_Asincronismo_con_JavaScript/issues"
   },
-  "homepage": "https://github.com/kimjoo01/Curso_de_Asincronismo_con_JavaScript#readme"
+  "homepage": "https://github.com/kimjoo01/Curso_de_Asincronismo_con_JavaScript#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
